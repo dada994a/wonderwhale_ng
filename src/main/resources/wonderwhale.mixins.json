@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "dev.twerklife.asm.mixins",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ClientConnectionMixin",
+		"ClientPlayerEntityMixin",
+		"ClientPlayNetworkHandlerMixin",
+		"IEntityVelocityUpdateS2CPacket",
+		"IExplosionS2CPacket",
+		"InGameHudMixin",
+		"KeyboardMixin",
+		"MinecraftClientMixin",
+		"WorldRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
