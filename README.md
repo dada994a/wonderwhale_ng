@@ -1,5 +1,6 @@
 # wonderwhale_ng
 これは最初期バージョンの遅れものです
+HeddiによってすでにLeakされています
 
 ClickGUI
 ![2024-12-24_17 37 53](https://github.com/user-attachments/assets/28ff0ec7-2cd9-4efb-90f7-2391e1cca460)
